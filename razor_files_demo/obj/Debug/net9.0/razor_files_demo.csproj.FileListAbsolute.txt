@@ -1075,10 +1075,10 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\refint\razor_files_demo.dll
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\razor_files_demo.pdb
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\ref\razor_files_demo.dll
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.n995tpjya8.pdb
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.vb7223h4uq.wasm
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.n995tpjya8.pdb.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.vb7223h4uq.wasm.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\1tljectfwo-vb7223h4uq.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\0hpd2xrin8-n995tpjya8.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\j9yaz2ld2k-dg8dk33wfb.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.7j9wjjj1pg.pdb
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.icecjzz1k6.wasm
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.7j9wjjj1pg.pdb.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.icecjzz1k6.wasm.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\1tljectfwo-icecjzz1k6.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\0hpd2xrin8-7j9wjjj1pg.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\j9yaz2ld2k-dmpzkhjkbt.gz
