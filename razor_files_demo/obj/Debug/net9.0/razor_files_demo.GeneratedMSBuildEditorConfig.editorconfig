@@ -28,12 +28,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/itsja/OneDrive/Desktop/github_files/Blazor_front_end_learn/razor_files_demo/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/itsja/OneDrive/Desktop/github_files/Blazor_front_end_learn/razor_files_demo/Pages/advanced_class.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWR2YW5jZWRfY2xhc3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/itsja/OneDrive/Desktop/github_files/Blazor_front_end_learn/razor_files_demo/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[C:/Users/itsja/OneDrive/Desktop/github_files/Blazor_front_end_learn/razor_files_demo/Pages/ContactComponents/ContactComponents01.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdENvbXBvbmVudHNcQ29udGFjdENvbXBvbmVudHMwMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itsja/OneDrive/Desktop/github_files/Blazor_front_end_learn/razor_files_demo/Pages/Contact_print_sample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdF9wcmludF9zYW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itsja/OneDrive/Desktop/github_files/Blazor_front_end_learn/razor_files_demo/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/itsja/OneDrive/Desktop/github_files/Blazor_front_end_learn/razor_files_demo/Pages/Index.razor]

@@ -1,13 +1,13 @@
 ﻿@page "/ola"
 @using razor_files_demo.Models
-//again your have to use the name of the file
+@* //again your have to use the name of the file *@
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 @foreach (var contact in contacts)
 {
     <div>
-        <h2>@contact.Name</h2>
+        <h4>@contact.Name</h4>
         <p>Email: @contact.Email</p>
         <p>Phone: @contact.Phone</p>
     </div>
