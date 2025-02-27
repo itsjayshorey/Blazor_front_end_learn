@@ -7,7 +7,7 @@
 @foreach (var contact in contacts)
 {
     <div>
-        <h4>@contact.Name</h4>
+        <h4>@contact.FirstName @contact.LastName</h4>
         <p>Email: @contact.Email</p>
         <p>Phone: @contact.Phone</p>
     </div>
@@ -20,11 +20,11 @@ Welcome to your new app.
         base.OnInitialized();
         contacts = new List<Contacts>
         {
-            new Contacts { Name = "John Doe", Email = "john.doe@example.com", Phone = "123-456-7890" },
-            new Contacts { Name = "Jane Smith", Email = "jane.smith@example.com", Phone = "987-654-3210" },
-            new Contacts { Name = "Alice Johnson", Email = "alice.johnson@example.com", Phone = "555-123-4567" },
-            new Contacts { Name = "Bob Brown", Email = "bob.brown@example.com", Phone = "444-555-6666" },
-            new Contacts { Name = "Charlie Davis", Email = "charlie.davis@example.com", Phone = "777-888-9999" }
+            new Contacts { FirstName = "John", LastName = "Doe", Email = "john.doe@example.com", Phone = "123-456-7890" },
+            new Contacts { FirstName = "Jane", LastName = "Smith", Email = "jane.smith@example.com", Phone = "987-654-3210" },
+            new Contacts { FirstName = "Alice", LastName = "Johnson", Email = "alice.johnson@example.com", Phone = "555-123-4567" },
+            new Contacts { FirstName = "Bob", LastName = "Brown", Email = "bob.brown@example.com", Phone = "444-555-6666" },
+            new Contacts { FirstName = "Charlie", LastName = "Davis", Email = "charlie.davis@example.com", Phone = "777-888-9999" }
         };
     }
 }

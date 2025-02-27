@@ -3,7 +3,7 @@
 
 @foreach (var contact in contacts)
 {
-    <ContactComponents01 FirstName="contacts.FirstName" LastName="contacts.LastName" />
+    <ContactComponents01 FirstName="@contact.FirstName" LastName="@contact.LastName" Email="@contact.Email" />
 }
 @code{
     private List<Contacts> contacts;
@@ -12,11 +12,11 @@
         base.OnInitialized();
         contacts = new List<Contacts>
         {
-            new Contacts { FirstName = "John", LastName = "Doe", Email = "john.doe@example.com" },
-            new Contacts { FirstName = "Jane", LastName = "Smith", Email = "jane.smith@example.com" },
-            new Contacts { FirstName = "Michael", LastName = "Johnson", Email = "michael.johnson@example.com" },
-            new Contacts { FirstName = "Emily", LastName = "Davis", Email = "emily.davis@example.com" },
-            new Contacts { FirstName = "David", LastName = "Wilson", Email = "david.wilson@example.com" }
+            new Contacts { FirstName = "John", LastName = "Doe", Email = "john.doe@example.com", Phone = "123-456-7890" },
+            new Contacts { FirstName = "Jane", LastName = "Smith", Email = "jane.smith@example.com", Phone = "234-567-8901" },
+            new Contacts { FirstName = "Michael", LastName = "Johnson", Email = "michael.johnson@example.com", Phone = "345-678-9012" },
+            new Contacts { FirstName = "Emily", LastName = "Davis", Email = "emily.davis@example.com", Phone = "456-789-0123" },
+            new Contacts { FirstName = "David", LastName = "Wilson", Email = "david.wilson@example.com", Phone = "567-890-1234" }
         };
     }
 }
