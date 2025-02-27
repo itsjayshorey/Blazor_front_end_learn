@@ -1081,3 +1081,4 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\1tljectfwo-79eolnc6eq.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\0hpd2xrin8-9pfuypg01q.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\j9yaz2ld2k-py9jip1af4.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\razor_files_demo.sourcelink.json

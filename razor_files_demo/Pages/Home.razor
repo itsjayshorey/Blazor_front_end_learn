@@ -1,7 +1,30 @@
 ﻿@page "/ola"
-
+@using razor_files_demo.Models
+//again your have to use the name of the file
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
-
+@foreach (var contact in contacts)
+{
+    <div>
+        <h2>@contact.Name</h2>
+        <p>Email: @contact.Email</p>
+        <p>Phone: @contact.Phone</p>
+    </div>
+}
 Welcome to your new app.
+@code{
+    private List<Contacts> contacts;
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        contacts = new List<Contacts>
+        {
+            new Contacts { Name = "John Doe", Email = "john.doe@example.com", Phone = "123-456-7890" },
+            new Contacts { Name = "Jane Smith", Email = "jane.smith@example.com", Phone = "987-654-3210" },
+            new Contacts { Name = "Alice Johnson", Email = "alice.johnson@example.com", Phone = "555-123-4567" },
+            new Contacts { Name = "Bob Brown", Email = "bob.brown@example.com", Phone = "444-555-6666" },
+            new Contacts { Name = "Charlie Davis", Email = "charlie.davis@example.com", Phone = "777-888-9999" }
+        };
+    }
+}
