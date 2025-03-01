@@ -1,0 +1,9 @@
+<p>
+    <b>hy this is advContactComponents01</b>
+    <b>Name: </b><span>@CurrentContact.FirstName @CurrentContact.LastName</span><br>
+    <b>Email: </b><i>@CurrentContact.Email</i>
+</p>
+@code{
+    [Parameter]
+    public Contacts CurrentContact { get; set; }
+}

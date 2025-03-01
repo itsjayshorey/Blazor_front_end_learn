@@ -1,9 +1,14 @@
 @page "/Advancedclass"
 @using razor_files_demo.Pages.ContactComponents
-
 @foreach (var contact in contacts)
 {
     <ContactComponents01 FirstName="@contact.FirstName" LastName="@contact.LastName" Email="@contact.Email"/>
+}
+<h1>part 2</h1>
+@foreach (var contact in contacts)
+{
+    @* <p>hy</p> *@
+    <AdvContactComponents01 CurrentContact="contact"/>
 }
 @code{
     private List<Contacts> contacts;
