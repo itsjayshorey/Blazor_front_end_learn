@@ -12,6 +12,11 @@
 }
 <br>
 <Mytextbox Placeholder="Sample Placeholder"></Mytextbox>
+<Dicti_class @attributes="@(new Dictionary<string,object>
+{
+   {"disabled","placeholder"},
+   {"placeholder","disabled"}
+})"></Dicti_class>
 @code{
     private List<Contacts> contacts;
     protected override void OnInitialized()
