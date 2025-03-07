@@ -1,5 +1,9 @@
 @page "/Advancedclass"
 @using razor_files_demo.Pages.ContactComponents
+@using razor_files_demo.Models
+
+<h1>Advanced Class Jay</h1>
+<h2>hy h2</h2>
 @foreach (var contact in contacts)
 {
     <ContactComponents01 FirstName="@contact.FirstName" LastName="@contact.LastName" Email="@contact.Email"/>
@@ -7,16 +11,16 @@
 <h1>part 2</h1>
 @foreach (var contact in contacts)
 {
-    @* <p>hy</p> *@
+    <p>hy</p> 
     <AdvContactComponents01 CurrentContact="contact"/>
 }
 <br>
 <Mytextbox Placeholder="Sample Placeholder"></Mytextbox>
-<Dicti_class @attributes="@(new Dictionary<string,object>
+@* <Dicti_class @attributes="@(new Dictionary<string,object>
 {
    {"disabled","placeholder"},
    {"placeholder","disabled"}
-})"></Dicti_class>
+})"></Dicti_class> *@
 @code{
     private List<Contacts> contacts;
     protected override void OnInitialized()

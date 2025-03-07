@@ -160,3 +160,156 @@ main[b-mlwj640ov1] {
         overflow-y: auto;
     }
 }
+/* /Pages/ContactComponents/ContactComponents01.razor.rz.scp.css */
+/* General Styles */
+body[b-6bcptcercg] {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Heading */
+h1[b-6bcptcercg] {
+    color: red;
+    font-size: 90px;
+    margin-top: 20px;
+}
+h1:hover[b-6bcptcercg] {
+    color: blue;
+}
+
+/* Paragraph Styles */
+p[b-6bcptcercg] {
+    font-size: 1.2rem;
+    color: red;
+
+}
+p:hover[b-6bcptcercg] {
+    color: skyblue;
+}
+/* Buttons */
+button[b-6bcptcercg] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+    transition: background 0.3s ease-in-out;
+}
+
+button:hover[b-6bcptcercg] {
+    background-color: #2980b9;
+}
+
+/* Lucky User Message */
+p:nth-child(odd)[b-6bcptcercg] {
+    font-weight: bold;
+    color: green;
+}
+
+p:nth-child(even)[b-6bcptcercg] {
+    color: red;
+}
+/* /Pages/Contact_print_sample.razor.rz.scp.css */
+/* General Styles */
+body[b-mhffq16cuk] {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Heading */
+h1[b-mhffq16cuk] {
+    color: red;
+    font-size: 90px;
+    margin-top: 20px;
+}
+
+/* Paragraph Styles */
+p[b-mhffq16cuk] {
+    font-size: 1.2rem;
+    color: red;
+}
+
+/* Buttons */
+button[b-mhffq16cuk] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+    transition: background 0.3s ease-in-out;
+}
+
+button:hover[b-mhffq16cuk] {
+    background-color: #2980b9;
+}
+
+/* Lucky User Message */
+p:nth-child(odd)[b-mhffq16cuk] {
+    font-weight: bold;
+    color: green;
+}
+
+p:nth-child(even)[b-mhffq16cuk] {
+    color: red;
+}
+/* /Pages/index.razor.rz.scp.css */
+/* General Styles */
+body[b-zy86be65cy] {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Heading */
+h1[b-zy86be65cy] {
+    color: #333;
+    font-size: 2rem;
+    margin-top: 20px;
+}
+
+/* Paragraph Styles */
+p[b-zy86be65cy] {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+/* Buttons */
+button[b-zy86be65cy] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+    transition: background 0.3s ease-in-out;
+}
+
+button:hover[b-zy86be65cy] {
+    background-color: #2980b9;
+}
+
+/* Lucky User Message */
+p:nth-child(odd)[b-zy86be65cy] {
+    font-weight: bold;
+    color: green;
+}
+
+p:nth-child(even)[b-zy86be65cy] {
+    color: red;
+}

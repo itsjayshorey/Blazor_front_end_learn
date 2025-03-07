@@ -876,8 +876,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>5os0wgpuie</Fingerprint>
-      <Integrity>JQFdimvgodQH4NtGYSpt/dVXgPYYOww46ZR0DaQyWi0=</Integrity>
+      <Fingerprint>jbh90ogstg</Fingerprint>
+      <Integrity>EeBMwL3hV67l2NOq3Vy8SK1QL2YSL9eqWTfIFTLJp4M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\razor_files_demo.styles.css'))</OriginalItemSpec>
