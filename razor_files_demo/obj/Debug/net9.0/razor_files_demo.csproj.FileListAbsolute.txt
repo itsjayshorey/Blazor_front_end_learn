@@ -38,8 +38,6 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\mscorlib.l6md3pggqy.wasm
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\netstandard.lij9csiyuf.wasm
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.3l17gn33wr.pdb
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.8k59r15a4p.wasm
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.ch56s52ual.wasm
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.tlm3i6pt76.wasm
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.jadgrn67lq.wasm
@@ -207,7 +205,6 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.IO.Pipes.AccessControl.8jmdzj76k5.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Private.Uri.h9vk2avn0v.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Net.Ping.f5i7hfw2qc.wasm.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.3l17gn33wr.pdb.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.CodePages.ykcj58k0je.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Net.Security.ibdm0dxxqk.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.rubq0v1yiy.js.gz
@@ -215,7 +212,6 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.TraceSource.777sathwzn.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.Contracts.g37ic7xnxa.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.09wnmnw7h6.wasm.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.8k59r15a4p.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Json.uy989eosch.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.tjpnkvn3q9.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\System.Net.Quic.6n4jzsrw88.wasm.gz
@@ -866,8 +862,6 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\e9nl699fel-mkhwfmxu1l.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\5is2y6sr1u-iag0ou56lh.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\8za1jg9uib-md9yvkcqlf.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\q66fu5gk4e-jbh90ogstg.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\plxtq7ahio-jbh90ogstg.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\e7i4hhlqe4-n41ua9ceve.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\d9ao5e5pgb-h4ild4sjod.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\y8all44oeo-9at76jd5um.gz
@@ -1068,9 +1062,6 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\ua7yejxmsc-tjcz0u77k5.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\cuof1bv4nm-tptq2av103.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\qs8oy8naqd-lfu7j35m59.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\1tljectfwo-8k59r15a4p.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\0hpd2xrin8-3l17gn33wr.gz
-C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\j9yaz2ld2k-rfp3cs0bn4.gz
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1085,3 +1076,12 @@ C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\refint\razor_files_demo.dll
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\razor_files_demo.pdb
 C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\ref\razor_files_demo.dll
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.ndsz5azhpd.pdb
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.nkf2ijesbf.wasm
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.ndsz5azhpd.pdb.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\bin\Debug\net9.0\wwwroot\_framework\razor_files_demo.nkf2ijesbf.wasm.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\q66fu5gk4e-8j91ytneol.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\plxtq7ahio-8j91ytneol.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\1tljectfwo-nkf2ijesbf.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\0hpd2xrin8-ndsz5azhpd.gz
+C:\Users\itsja\OneDrive\Desktop\github_files\Blazor_front_end_learn\razor_files_demo\obj\Debug\net9.0\compressed\j9yaz2ld2k-4mi53yyyxb.gz

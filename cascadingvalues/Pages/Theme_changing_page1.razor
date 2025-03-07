@@ -1,0 +1,15 @@
+@* @using cascadingvalues.Themevalue
+@if(Theme == "dark")
+{
+    <link rel="stylesheet" href="pqr.css">
+}
+else
+{
+    <link rel="stylesheet" href="abc.css">
+}
+<h3>Theme changing page 1</h3>
+<p>This is a Theme changing page </p>
+@code{
+    [CascadingParameter]
+    public string Theme { get; set; }="light";
+} *@
