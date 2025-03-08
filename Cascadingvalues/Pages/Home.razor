@@ -1,7 +1,25 @@
-﻿@page "/"
+﻿// Home.razor
+@page "/"
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+<Reusable />
+<CascadingValue Value="@ThemeColor">
+    <Reusable />
+</CascadingValue>
+
+<button @onclick="ChangeValue">Change Color</button>
+
+@code {
+    private string ThemeColor = "red";
+    private void ChangeValue()
+    {
+        var colors = new[] { "red", "green", "blue", "pink", "orange" };
+        var random = new Random();
+        ThemeColor = colors[random.Next(colors.Length)];
+    }
+}

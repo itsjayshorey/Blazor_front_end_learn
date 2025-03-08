@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHJLHRRnvgg=",
+  "dgSpecHash": "/LzHCdS3III=",
   "success": true,
-  "projectFilePath": "C:\\Users\\itsja\\OneDrive\\Desktop\\github_files\\Blazor_front_end_learn\\Cascadingvalues\\Cascadingvalues.csproj",
+  "projectFilePath": "C:\\Users\\itsja\\OneDrive\\Desktop\\github_files\\Blazor_front_end_learn\\cascadingvalues\\Cascadingvalues.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itsja\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\itsja\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",
