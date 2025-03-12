@@ -1,0 +1,18 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+<input @oninput="UpdateSearch" placeholder="Search for products..." />
+
+<p>You searched for: @searchQuery</p>
+
+@* Define the event handler method to process the input: *@
+@code{
+    public string searchQuery;
+    private void UpdateSearch(ChangeEventArgs e) {
+        searchQuery = e.Value.ToString(); // Updates the search query as the user types.
+}
+}

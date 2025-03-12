@@ -1,0 +1,20 @@
+@* Add an element with a @onmouseover directive to trigger an action when the user hovers over it. *@
+@page "/Mouseclick"
+<div class="p-4 border rounded">
+
+    <p @onmouseover="ShowProductDetails" @onmouseout="ResetProductDetails">Hover over the product</p>
+
+</div>
+
+<p>@productDetails</p>
+
+@* Create the method to handle the hover event: *@
+@code{
+    private string productDetails="Hover to know it's type"; // Initializes the product details.
+    private void ShowProductDetails() {
+        productDetails = "Eco-friendly product with reusable packaging."; // Updates details on hover.
+    }
+    private void ResetProductDetails() {
+        productDetails = "Hover to know it's type"; // Resets the details when the user moves the cursor away.
+    }
+}
